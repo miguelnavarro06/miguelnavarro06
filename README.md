@@ -3,7 +3,7 @@
 ## 🚀 Científico de Datos | Análisis Avanzado y Machine Learning
 Soy un Científico de Datos con formación en Química y Ciencias Biológicas, especializado en transformar conjuntos de datos complejos en estrategias de negocio accionables. Mi experiencia se centra en la construcción de **pipelines de machine learning end-to-end**, modelado predictivo y análisis estadístico.
 
-Con una trayectoria profesional en **Heineken México**, he aplicado con éxito estrategias basadas en datos para reducir costos operativos en un **66%** y optimizar la eficiencia de producción.
+He aplicado con éxito estrategias basadas en datos para reducir costos operativos y optimizar la eficiencia de producción.
 
 ---
 
@@ -11,11 +11,11 @@ Con una trayectoria profesional en **Heineken México**, he aplicado con éxito 
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | Python, SQL, R, Bash |
+| **Lenguajes** | Python, SQL, R |
 | **Librerías** | Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib |
 | **Machine Learning** | Random Forest, Regresión Logística, XGBoost, Clustering, Pruebas de Hipótesis |
-| **Visualización y BI** | Power BI, Tableau, SAP, Excel (Avanzado) |
-| **Entornos** | Jupyter, Databricks, Azure |
+| **Visualización y BI** | Power BI, Tableau, SAP, Excel |
+| **Entornos** | Jupyter, Vstudiocode |
 
 ---
 
@@ -35,19 +35,11 @@ Con una trayectoria profesional en **Heineken México**, he aplicado con éxito 
 * **Problema:** Análisis del impacto del clima en el rendimiento de los viajes.
 * **Solución:** Extracción de datos mediante SQL y pruebas de hipótesis sobre la duración de los trayectos.
 
----
-
-### 📊 Estadísticas de GitHub
-
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
-
----
 
 ### 📫 Contacto:
 
 * **LinkedIn:** [linkedin.com/in/miguelnavarroromo](https://www.linkedin.com/in/miguelnavarroromo/)
 * **Email:** [miguela.navarror@gmail.com](mailto:miguela.navarror@gmail.com)
-* **Portafolio:** [Enlace a mi Portafolio en Notion](#)
+* **Portafolio:** [https://www.notion.so/Miguel-Navarro-08fa49ce4022833a865401abe8ab682b?source=copy_link](#)
 
 *"Transformando datos en decisiones."*

@@ -1,6 +1,6 @@
 # ¡Hola! Soy Miguel Navarro 👋
 
-## 🚀 Científico de Datos | Análisis Avanzado y Machine Learning
+## 🚀 Científico de Datos | Análisis Estadístico Avanzado y Machine Learning
 Soy un Científico de Datos con formación en Química y Ciencias Biológicas, especializado en transformar conjuntos de datos complejos en estrategias de negocio accionables. Mi experiencia se centra en la construcción de **pipelines de machine learning end-to-end**, modelado predictivo y análisis estadístico.
 
 He aplicado con éxito estrategias basadas en datos para reducir costos operativos y optimizar la eficiencia de producción.
